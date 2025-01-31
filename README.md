@@ -15,5 +15,7 @@ The Company have 3 motorbikes to give, one to each employee making the most sale
 
 ## Dashboard
 - <a href = "https://github.com/ArchanaHatkar/Data-Analysis-Dashboard/blob/main/Electronics%20Retail%20Dashboard.png">Dashboard Interaction</a>
+![Electronics Retail Dashboard](https://github.com/user-attachments/assets/b65a3c97-0c5e-42b2-a4b0-e137b4820f75)
+
 
 
