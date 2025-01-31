@@ -6,3 +6,14 @@ The Company have 3 motorbikes to give, one to each employee making the most sale
 ## Dataset Used
 - <a href ="https://github.com/ArchanaHatkar/Data-Analysis-Dashboard/blob/main/Electronics%20Retail.xlsx">Dataset</a>
 
+## Questions (KPI’s)
+•	Compare the sales in different states.
+•	Which state got the highest sales?
+•	Who did highest sale?
+•	Name top 3 salesman from each state.
+•	Which state got the lowest sales?
+
+## Dashboard
+- <a href = "https://github.com/ArchanaHatkar/Data-Analysis-Dashboard/blob/main/Electronics%20Retail%20Dashboard.png">Dashboard Interaction</a>
+
+
