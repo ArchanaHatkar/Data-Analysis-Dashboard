@@ -8,9 +8,13 @@ The Company have 3 motorbikes to give, one to each employee making the most sale
 
 ## Questions (KPI’s)
 •	Compare the sales in different states.
+
 •	Which state got the highest sales?
+
 •	Who did highest sale?
+
 •	Name top 3 salesman from each state.
+
 •	Which state got the lowest sales?
 
 ## Dashboard
@@ -19,11 +23,14 @@ The Company have 3 motorbikes to give, one to each employee making the most sale
 
 ## Project Insight
 •	Maharashtra having maximum sales as compare to Gujarat and Gujarat having more sales as compare to Delhi.
+
 •	More than 90% sales done in Maharashtra.
 
 ## Conclusion
 First Prize – Jatin from Maharashtra.
+
 Second Prize – Manan from Gujarat.
+
 Third Prize – Samir from Delhi. 
 
 
